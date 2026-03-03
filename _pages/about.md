@@ -11,16 +11,10 @@ I received my Ph.D. in Engineering from the School of Automation, Huazhong Unive
 
 My research focuses on computer vision, artificial intelligence, and pattern recognition, with an emphasis on vision-based intelligent systems and real-world deployment. I am particularly interested in bridging theoretical modeling with practical industrial applications, including intelligent inspection, dense perception, and embodied visual intelligence.
 
-Research Interests
-
-Computer Vision
-
-Artificial Intelligence
-
-Pattern Recognition
-
-Vision-based Industrial Intelligence
-
-Dense Object Counting & Few-shot Learning
-
-Embodied Perception and Decision-Making
+## Research Interests
+- Computer Vision
+- Artificial Intelligence
+- Pattern Recognition
+- Vision-based Industrial Intelligence
+- Dense Object Counting & Few-shot Learning
+- Embodied Perception and Decision-Making
