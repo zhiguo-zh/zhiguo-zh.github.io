@@ -28,7 +28,7 @@ author:
   bio              : "School of Electrical and Automation Engineering, \
   Shandong University of Science and Technology"
   location         : "Qingdao, China"
-  employer         : "Shandong University of Science and Technology"
+  employer         : # "Shandong University of Science and Technology"
   uri              : # URL
   email            : "zhiguozhang@sdust.edu.cn" 
 
